@@ -1,1 +1,1 @@
-ALUNOS: Gustavo Nascimento Rodrigues e Jhennifer Camila Mesquita Ferreira
+ALUNOS: Gustavo Nascimento Rodrigues e Giovani Amorim de Sousa 
