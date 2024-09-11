@@ -1,1 +1,1 @@
-ALUNOS: Gustavo Nascimento Rodrigues e Giovani Amorim de Sousa 
+ALUNOS: Eduardo Kenji Oka Choj e Jhennifer Camila
