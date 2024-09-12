@@ -1,1 +1,2 @@
-ALUNOS: Eduardo Kenji Oka Choj e Jhennifer Camila
+ALUNOS: Gustavo Nascimento e Giovani
+
